@@ -17,5 +17,5 @@ namespace ParamIDs
     inline constexpr auto decay            { "decay" };
     inline constexpr auto sustain          { "sustain" };
     inline constexpr auto release          { "release" };
-} 
+}
 
