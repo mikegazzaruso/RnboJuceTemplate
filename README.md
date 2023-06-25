@@ -1,7 +1,7 @@
 # RnboJuceTemplate
 A [JUCE](https://juce.com) Template including a minimal synthesizer created with MaxMSP's [rnbo~](https://rnbo.cycling74.com/), that encapsulates rnboObject's state into JUCE's AudioProcessor using modern JUCE APVTS fashion.
 
-## How it works
+## How does it work?
 Inside the `Juce Project` folder you will find the actual JUCE Project, with Max code already exported as C++ code and placed inside the `Export` folder.
 <br><br>Inside the `Max` folder you will find the actual `Max` and `rnbo~` project files for the minimal synthesizer. It's a polyphonic (16 voices) synth with a single VCO (sine wave), no VCF and a standard ADSR VCA.
 
