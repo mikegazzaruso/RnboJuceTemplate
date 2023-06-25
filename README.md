@@ -25,4 +25,14 @@ In `PluginProcessor.cpp`, change line 294 to<br>
 
 4. Enjoy
 
+<h2>Max Patcher</h2>
+<img width="891" alt="Screenshot 2023-06-25 alle 20 33 00" src="https://github.com/mikegazzaruso/RnboJuceTemplate/assets/9842486/10cf1b64-42c7-4820-a5bb-19db3da74d21">
+
+<br>
+<h2>rnbo~ Patcher</h2>
+<img width="863" alt="Screenshot 2023-06-25 alle 20 33 09" src="https://github.com/mikegazzaruso/RnboJuceTemplate/assets/9842486/684835cb-0c90-440d-8f90-a471732e2232">
+
+<br>
+<h2>Plugin inside Ableton Live 11 (VST3)</h2>
+<img width="1206" alt="Screenshot 2023-06-25 alle 20 33 32" src="https://github.com/mikegazzaruso/RnboJuceTemplate/assets/9842486/994a589e-6e7d-4e71-be51-3044250c4369">
 
