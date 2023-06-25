@@ -1,0 +1,39 @@
+[
+  {
+    "name": "rnbo_juce_template",
+    "preset": {
+      "__sps": {
+        "poly": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      "attack": {
+        "value": 0
+      },
+      "decay": {
+        "value": 0
+      },
+      "release": {
+        "value": 0
+      },
+      "sustain": {
+        "value": 1
+      }
+    }
+  }
+]
