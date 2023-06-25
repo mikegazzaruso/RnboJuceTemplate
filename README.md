@@ -11,10 +11,9 @@ This Template uses [APVTS](https://docs.juce.com/master/tutorial_audio_processor
 ## GenericAudioProcessorEditor is used, what if I would implement custom GUI? 
 In `PluginProcessor.cpp`, change line 294 to<br>
 `return new RnboJuceTemplateAudioProcessorEditor (*this);`
+<br>and implement your custom GUI.
 
-<br>and implement your custom GUI
-
-### Instructions
+### How to use RnboJuceTemplate?
 1. Inside Projucer project, be sure to set properly your header search paths accordingly 
 <br>`/Users/<your_user>/<your_project_dir>/Juce Project/Export/rnbo`<br>
 `/Users/<your_user>/<your_project_dir>/Juce Project/Export/rnbo/common`
