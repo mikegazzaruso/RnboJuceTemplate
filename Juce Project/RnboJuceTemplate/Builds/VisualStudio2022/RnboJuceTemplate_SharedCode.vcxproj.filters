@@ -2913,7 +2913,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\Export\rnbo\ParamIds.h">
+    <ClInclude Include="..\..\Source\ParamIds.h">
       <Filter>RnboJuceTemplate\Source</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\PluginProcessor.h">

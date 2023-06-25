@@ -6,7 +6,7 @@
               pluginManufacturerCode="GZMK" pluginCode="RJTM" headerPath="/Users/mike/Documents/Projects/Neuralia/Juce/RnboJuceTemplate/Juce Project/Export/rnbo&#10;&#10;/Users/mike/Documents/Projects/Neuralia/Juce/RnboJuceTemplate/Juce Project/Export/rnbo/common">
   <MAINGROUP id="J1Q9KT" name="RnboJuceTemplate">
     <GROUP id="{9552F241-4E81-C593-AB22-F87F46F10A91}" name="Source">
-      <FILE id="Lw5pmD" name="ParamIds.h" compile="0" resource="0" file="../Export/rnbo/ParamIds.h"/>
+      <FILE id="oY9ss3" name="ParamIds.h" compile="0" resource="0" file="Source/ParamIds.h"/>
       <FILE id="DpKsBj" name="RNBO.cpp" compile="1" resource="0" file="../Export/rnbo/RNBO.cpp"/>
       <FILE id="mt9x3h" name="rnbo_juceTemplate.cpp" compile="1" resource="0"
             file="../Export/rnbo_juceTemplate.cpp"/>
